@@ -21,6 +21,9 @@ Client → API → Database
 ## Live Demo
 https://sencico-visorweb-gis-frontend.onrender.com/
 
+- Back: Render
+- Front: Render
+
 ## Screenshots
 ### Map View
 ![Map](./screenshots/01_map.png)
