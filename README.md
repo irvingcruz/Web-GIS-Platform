@@ -22,7 +22,14 @@ Client → API → Database
 https://sencico-visorweb-gis-frontend.onrender.com/
 
 ## Screenshots
-(add images here)
+### Map View
+![Map](./screenshots/01_map.png)
+
+### Ubications
+![Ubications](./screenshots/02_sedes_ubication.png)
+
+### Photos
+![Photos](./screenshots/03_photos_floor.png)
 
 ## How to Run
 cd backend
